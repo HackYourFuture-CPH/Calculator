@@ -4,7 +4,7 @@
  <img width=150px height=150px src="https://www.hackyourfuture.dk/static/logo-dark.svg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Boilerplate for Final projects
+<h3 align="center"> Calculator React Project
 </h3>
 
 
@@ -14,6 +14,7 @@
 ## 📝 Table of Contents
 
 - [About](#about)    
+- [Wireframes](#wireframes)    
 - [Process](#-process-)   
         - [Working with code](#-working-with-code)   
         - [Code best practices](#-code-best-practices)        
@@ -35,17 +36,13 @@
 
 ## 🧐 About <a name = "about"></a>
 
-This repository is a boilerplate and set-up instructions for the Final Project.
+This repository is a boilerplate and set-up instructions for the Calculator Project.
 
-To setup the boilerplate for a New Final project you MUST read this first [HERE](/setting-up-instructions.md)
+## Wireframes <a name = "wireframes"></a>
 
-After the previous steps, you have new repository ready but you need plan the project, 
-check [HERE](/planning.md) before you go more down.
+Please check the wireframes here: https://www.figma.com/file/sW0LKPdefXDc1Fgb1Q0Soa/Calculator
+Credits to [cecastosic](https://github.com/cecastosic)      
 
-🚨Delete the About Topic from you new repository README.MD file     
-🚨Delete the instructions files:    
-- [Setting up Instructions](/setting-up-instructions.md)     
-- [Planning](/planning.md)    
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
@@ -62,13 +59,14 @@ check [HERE](/planning.md) before you go more down.
 
 #### 🗄️ Database Model Diagram
 
-*Add here the DB Model Diagram* - Use https://dbdiagram.io/
+Create a Datamodel with DBdiagram.io and add it to your repository - Use https://dbdiagram.io/
 
 - [How to make changes on the diagram](/diagram.md)
 
 
-
 ## 📈 Process 📉📈
+
+You must clone this project and check the open issues, wireframes and build the datamodel.
 
 ### 💻 Working with code
 
@@ -158,6 +156,8 @@ In Visual Studio code, go to file -> Preferences -> settings -> Search for `pret
 * [**Zaki Wasik**](https://github.com/zkwsk/)
 * [**Filip Malek**](https://github.com/REX500)
 * [**Daniel Fernandes**](https://github.com/dpfernandes)
+* [**Svetlana Ceca**](https://github.com/cecastosic)
+
 
 
 ## 📝 License

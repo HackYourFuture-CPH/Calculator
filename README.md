@@ -13,14 +13,7 @@
 
 ## 📝 Table of Contents
 
-- [About](#about)   
-        - [Setting up the boilerplate](/setting-up-instructions.md)   
-        - [Plan the project](/planning.md)
-- [Project's Calendar](#-projects-calendar)   
-- [Class Daily Agenda](#-class-daily-agenda-)   
-- [The Customer](#-the-customer)   
-        - [Business Glossary](/BusinessGlossary.md)   
-        - [Database Model Diagram](#️-database-model-diagram)   
+- [About](#about)    
 - [Process](#-process-)   
         - [Working with code](#-working-with-code)   
         - [Code best practices](#-code-best-practices)        
@@ -66,32 +59,6 @@ check [HERE](/planning.md) before you go more down.
 - [Storybook](https://storybook.js.org/) - Tool for developing UI components in isolation 
 - [Prettier](https://prettier.io/) - Code formatter
 
-     
-
-## 📅 Project's Calendar
-
-*Add the dates for the project and study groups*
-*Class Dates*   
-*Study groups dates*    
-
-
-## 🕛 Class Daily Agenda 🕓
-
-*Add the Class schedule for the project*
-
-- 12:00 - 13:30 - ...   
-- 13:30 - 14:00 - ...   
-- 14:00 - 14:30 - Lunch   
-- 14:30 - 16:00 - ...   
-
-## 👩🏻‍💼💡👨🏽‍💼 The Customer 
-
-*Add here information about the customer/partner*
-
-#### 💼 Business Glossary
-
-*Add here information about the Business Glossary*
-[Business Glossary](/BusinessGlossary.md)
 
 #### 🗄️ Database Model Diagram
 

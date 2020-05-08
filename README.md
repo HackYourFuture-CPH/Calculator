@@ -129,7 +129,7 @@ To run the tests when you change a test file, run:
 `npm run test:watch`
 
 ## 🏁 Getting Started
-First clone the repo on your local machine using a terminal or a git client.
+First fork the repo to your own github and then clone it into your local machine using a terminal or a git client.
 
 #### 💾 [Installations](/installations.md)
 

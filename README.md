@@ -40,7 +40,7 @@ This repository is a boilerplate and set-up instructions for the Calculator Proj
 
 ## Wireframes <a name = "wireframes"></a>
 
-Please check the wireframes here: https://www.figma.com/file/sW0LKPdefXDc1Fgb1Q0Soa/Calculator
+Please check the wireframes here: https://www.figma.com/file/jDZ4h3rw9Ig6uuAwZIYqaF/Calculator
 
 Credits to [cecastosic](https://github.com/cecastosic)      
 
